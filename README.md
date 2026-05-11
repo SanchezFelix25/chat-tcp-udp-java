@@ -97,9 +97,10 @@ Cada cliente podrá elegir entre **TCP** o **UDP**.
 
 ## 📸 Capturas de pantalla
 
-*(Agrega aquí tus capturas)*
 
 - Servidor activo
+<img width="1444" height="520" alt="Captura de pantalla 2026-05-10 191039" src="https://github.com/user-attachments/assets/f6052f84-7cde-4e0c-a578-6bd2c58f7dfe" />
+
 - Cliente TCP conectado
                      - Primera captura vista desde la clase Usario:
 - <img width="1784" height="632" alt="Cliente TCP conectado-PovCliente" src="https://github.com/user-attachments/assets/8562b859-729b-4b70-9bf4-a8229f147d10" />
@@ -109,8 +110,27 @@ Cada cliente podrá elegir entre **TCP** o **UDP**.
 
   
 - Cliente UDP conectado
+                   - Primera captura vista desde la clase Usario:
+  <img width="1686" height="617" alt="Captura de pantalla 2026-05-10 184949" src="https://github.com/user-attachments/assets/7cb7bc6b-cb13-4c3a-9233-2f321f939dd6" />
+
+                    - Segunda Captura Perspectiva del Servidor:
+  <img width="1670" height="600" alt="Captura de pantalla 2026-05-10 185133" src="https://github.com/user-attachments/assets/d110225d-6916-42b1-8146-35f6b1881741" />
+
+                  
 - Mensaje privado
+                  - Primera captura vista desde la clase Usario Felix y Maria:
+                    <img width="1180" height="626" alt="Captura de pantalla 2026-05-10 190536" src="https://github.com/user-attachments/assets/81fea674-0a19-4019-992f-995998b35c08" />
+
+                    <img width="831" height="630" alt="Captura de pantalla 2026-05-10 190600" src="https://github.com/user-attachments/assets/8ea7c117-8b85-471a-aef0-1bb6a7896f27" />
+
+                -  Segunda perspectiva desde la clase Usuario pero siendo el 3er Usuario creado:
+  <img width="850" height="637" alt="Captura de pantalla 2026-05-10 190727" src="https://github.com/user-attachments/assets/09514bc6-48f3-40cf-b247-9245b40eacc6" />
+
+
+
+- 
 - Múltiples usuarios
+<img width="992" height="637" alt="Captura de pantalla 2026-05-10 190943" src="https://github.com/user-attachments/assets/6ea793b0-b559-42cb-af7b-b70820b428d8" />
 
 ---
 
