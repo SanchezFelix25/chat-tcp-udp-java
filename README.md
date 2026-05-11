@@ -101,6 +101,13 @@ Cada cliente podrá elegir entre **TCP** o **UDP**.
 
 - Servidor activo
 - Cliente TCP conectado
+                     - Primera captura vista desde la clase Usario:
+- <img width="1784" height="632" alt="Cliente TCP conectado-PovCliente" src="https://github.com/user-attachments/assets/8562b859-729b-4b70-9bf4-a8229f147d10" />
+
+                      - Segunda Captura Perspectiva del Servidor:
+<img width="1686" height="629" alt="Cliente TCP conectado-PovServidorHibrido" src="https://github.com/user-attachments/assets/fa2666c4-b74e-41b6-9f16-34cbcb003d6d" />
+
+  
 - Cliente UDP conectado
 - Mensaje privado
 - Múltiples usuarios
