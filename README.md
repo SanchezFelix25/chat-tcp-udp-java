@@ -111,6 +111,29 @@ Cada cliente podrá elegir entre **TCP** o **UDP**.
 
 ---
 
+## 📊 Diagramas de Arquitectura
+
+### Diagrama del Servidor
+<img width="3840" height="2160" alt="diagramasdiagrama servidor@2x-100 jpg" src="https://github.com/user-attachments/assets/56b4413c-1351-4960-93a6-1532d0f968fd" />
+
+
+### Diagrama del Cliente
+<img width="3840" height="2161" alt="diagramasdiagrama cliente@2x-100 jpg" src="https://github.com/user-attachments/assets/0d297580-e79e-440b-87ec-ceee2b9aaeb4" />
+
+
+---
+
+## 🏗️ Arquitectura General
+
+El sistema está diseñado con una arquitectura **híbrida** (TCP + UDP), donde:
+
+- El servidor maneja conexiones TCP y UDP en el **mismo puerto**.
+- Cada cliente TCP tiene su propio hilo.
+- Los clientes UDP se identifican por (IP:Port).
+- Se utiliza un sistema de heartbeat + timeout para detectar inactividad.
+
+
+---
 ## 📸 Capturas de pantalla
 
 
