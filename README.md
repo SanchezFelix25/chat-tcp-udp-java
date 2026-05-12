@@ -64,12 +64,28 @@ Abre el proyecto en **NetBeans**, compila y ejecuta la clase:
 ```bash
 ServidorHibrido.java
 ```
+Si no tienes neatbeans Puedes descargar desde el siguiente link: 
+https://archive.apache.org/dist/netbeans/netbeans-installers/23/Apache-NetBeans-23-bin-windows-x64.exe
 
-O desde terminal:
+luego acepta todos los terminos , luego procura descargar la carpeta de **Chat-TCP-UDP**, luego abres neatbeans te vas a la parte de files y abrir abrir proyecto:
+<img width="1289" height="763" alt="image" src="https://github.com/user-attachments/assets/68cbacd6-0d64-401a-ae8e-f61a9cb143e3" />
+
+luego buscas donde guardaste la carpeta donde se encuentra el projecto:
+<img width="237" height="21" alt="image" src="https://github.com/user-attachments/assets/162e420b-8727-421c-b0c9-ae6ce7d41671" />
+cuando se abra el proyecto con click derecho y te vas a la parte de Run y listo ya puedes correr el proyecto con exito:
+<img width="312" height="285" alt="image" src="https://github.com/user-attachments/assets/45bcc90c-76a2-4e0a-a11b-e33ec9b03728" />
+
+
+
+O desde terminal vete al buscador de windows y buscas **Terminal** y copias y pagas los siguientes comandos :
 ```bash
 javac -d bin src/server/ServidorHibrido.java
 java -cp bin server.ServidorHibrido
 ```
+o sino tambien con las teclas Win + R te abrira el ejecutor y despues pon la palabra CDM , le das enter y listo ya solo es copiar y pegar los comandos en la teminal: 
+<img width="392" height="195" alt="image" src="https://github.com/user-attachments/assets/c1a64aa0-125a-4a16-9079-b123697d3d46" />
+
+
 
 El servidor te pedirá el puerto (recomendado: `5000`).
 
