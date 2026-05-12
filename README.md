@@ -17,7 +17,7 @@ Este proyecto consiste en un servidor híbrido capaz de atender clientes tanto p
 | Nombre                      | Matrícula    |
 |-----------------------------|--------------|
 | Felix isaac Sanchez Quintero| 00000244737  |
-| Armando Rayos        | id           |
+| Armando Rayos               | 00000133634  |
 
 ---
 
